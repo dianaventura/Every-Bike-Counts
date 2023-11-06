@@ -1,4 +1,4 @@
-# Bike Sharing Data Analysis
+# Every Bike You Take
 This project focuses on analyzing bike-sharing data from the Capital Bikeshare system between 2011 and 2012. Bike-sharing programs have gained popularity as eco-friendly transportation options in cities worldwide. This dataset provides hourly counts of rented bikes, along with weather and seasonal information. The primary objective is to apply various machine learning algorithms to predict bike usage accurately.
 
 # Objectives
